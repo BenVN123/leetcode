@@ -1,2 +1,3 @@
 # leetcode
-my leetcode solutions
+
+:)
